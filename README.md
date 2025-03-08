@@ -1,22 +1,19 @@
 Mancala
 ===
----
+
 ## Introduction 
-***
+
 This is a text version of Mancala which written with C++.
 
 ## Usage
-***
 Implement a MancalaGame instance and use function startGame() to start the game.
 
 ## General gameplay
-***
 Most mancala games have a common gameplay. Players begin by placing a certain number of seeds, prescribed for the particular game, in each of the pits on the game board. A player may count their stones to plot the game. A turn consists of removing all seeds from a pit, "sowing" the seeds (placing one in each of the following pits in sequence), and capturing based on the state of the board. The game's object is to plant the most seeds in the bank. This leads to the English phrase "count and capture" sometimes used to describe the gameplay. Although the details differ greatly, this general sequence applies to all games.
 
 If playing in capture mode, once a player ends their turn in an empty pit on their own side, they capture the opponent's pieces directly across. Once captured, the player gets to put the seeds in their own bank. After capturing, the opponent forfeits a turn.  
 
 ## Text version gameplay  
-***
 
 
                                 Player1's pocket  
@@ -36,9 +33,7 @@ If playing in capture mode, once a player ends their turn in an empty pit on the
 
 
 ## Demo
-***
 [Demo video from Youtube](https://youtu.be/gZNQ8c4Se9I "Demo")
 
 ## Reference
-***
 [Mancala Wiki](https://en.wikipedia.org/wiki/Mancala "Mancala")
