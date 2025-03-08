@@ -1,0 +1,3 @@
+/Users/eric/CLionProjects/mancalaGame/cmake-build-debug/CMakeFiles/mancalaGame.dir
+/Users/eric/CLionProjects/mancalaGame/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/eric/CLionProjects/mancalaGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
