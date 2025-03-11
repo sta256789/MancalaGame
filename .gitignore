@@ -1,0 +1,5 @@
+# Rider
+.idea/
+
+# Mac Finder Cache
+.DS_Store
