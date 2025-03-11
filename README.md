@@ -32,8 +32,11 @@ If playing in capture mode, once a player ends their turn in an empty pit on the
 1. After the tutorial, enter 0 or 1 to the first hand to Player1 / Player2.  
 2. Enter num 1~6 to take the seeds to sow.  
 3. The right side of the board will hint that this is who's turn.  
-4. When the pits of either side are all empty, the program will end the game and show who is the winner.
+4. When the pits of either side are all empty, the program will end the game and show who is the winner.  
 
+## Screenshot
+![MancalaPicture](https://github.com/sta256789/MancalaGame/blob/main/IMG_1501.jpeg?raw=true)  
+Some information of this game.
 
 ## Demo
 [Demo video from Youtube](https://youtu.be/gZNQ8c4Se9I "Demo")
