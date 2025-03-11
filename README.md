@@ -17,18 +17,6 @@ Most mancala games have a common gameplay. Players begin by placing a certain nu
 If playing in capture mode, once a player ends their turn in an empty pit on their own side, they capture the opponent's pieces directly across. Once captured, the player gets to put the seeds in their own bank. After capturing, the opponent forfeits a turn.  
 
 ## Text Version Gameplay  
-
-
-                                Player1's pocket  
-     　     ① 　② 　③ 　④ 　⑤ 　⑥ 　 ⬆  
-    ┌────────────────────────────────────┐  
-    │　︹　〖4〗〖4〗〖4〗〖4〗〖4〗〖4〗　︻　│ ← Player2's pits!  
-    │　0    　　　　　　　　　　　　　　　　0　│  
-    │　︺　【4】【4】【4】【4】【4】【4】　︼　│ ← Player1's pits!  
-    └────────────────────────────────────┘  
-    　 ⬇  
-    Player2's pocket
-
 1. After the tutorial, enter 0 or 1 to the first hand to Player1 / Player2.  
 2. Enter num 1~6 to take the seeds to sow.  
 3. The right side of the board will hint that this is who's turn.  
